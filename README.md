@@ -1,6 +1,10 @@
 # NestJS
 CRM complete.
 
+## Deploy
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=nestjs&repository=alexandrogds%2FNestJS&branch=start&instance_type=free&regions=was)
+
+## Tests
 A spec não apresenta erro quando a spec estiver imcompleta. Mas se começar apresentar erro então pode ser que a spec possa ser gerada automaticamente. Por isso dedicar uma atenção especial ao escrever a spec. Assim a spec deve ser escrita por uma pessoa de confiança do projeto para que trate corretamente o código. Por exemplo, `expect(result).toBe(mockMessage);` e `response.status(201).send() \n return this.appService.getHello();` valida que existe a resposta mas essa resposta nunca chega no browser.
 
 ## Learn
